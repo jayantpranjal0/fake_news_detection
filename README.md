@@ -19,8 +19,8 @@ Activate the virtual environment using:
 ```bash
 source env/bin/activate
 
-Create our API_KEY for accessing the GPT service
 ```
+Create your API_KEY for accesing gpt service
 
 Install the dependencies using:
 ```bash
