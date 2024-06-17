@@ -18,6 +18,8 @@ python -m venv env
 Activate the virtual environment using:
 ```bash
 source env/bin/activate
+
+Create our API_KEY for accessing the GPT service
 ```
 
 Install the dependencies using:
