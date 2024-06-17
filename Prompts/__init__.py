@@ -1,0 +1,1 @@
+from .news_prompt import NEWS_PROMPT
