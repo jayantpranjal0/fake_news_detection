@@ -21,6 +21,11 @@ source env/bin/activate
 
 ```
 Create your API_KEY for accesing gpt service
+```bash
+In .env file write
+API_KEY=<YOUR API_KEY>
+```
+
 
 Install the dependencies using:
 ```bash
